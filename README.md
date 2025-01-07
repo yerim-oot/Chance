@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 배포 링크
-[샹스 홈페이지](https://github.com/yerim-oot/Chance.git)
+[샹스 홈페이지](https://yerim-oot.github.io/Chance/)
 
 ---
 
