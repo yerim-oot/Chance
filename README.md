@@ -9,6 +9,6 @@
 ---
 
 ## 🔗 배포 링크
-[샹스 홈페이지](https://example.com)
+[샹스 홈페이지]([https://example.com](https://github.com/yerim-oot/Chance.git))
 
 ---
